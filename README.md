@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-This is a test
+Hello humans,
+
+I am a newbie here, so be patient ;)
